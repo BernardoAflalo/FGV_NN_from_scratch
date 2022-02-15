@@ -2,4 +2,4 @@
 Básico de Redes Neurais
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BernardoAflalo/FGV_NN_from_scratch/master?filepath=Redes%20Neuradas.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/FGV_NN_from_scratch/blob/master/Redes%20Neuradas.ipynb)
